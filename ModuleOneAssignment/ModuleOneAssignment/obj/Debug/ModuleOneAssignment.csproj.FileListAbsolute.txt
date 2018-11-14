@@ -1,0 +1,7 @@
+C:\Users\colin\Source\Repos\ModuleOneAssignment\ModuleOneAssignment\bin\Debug\ModuleOneAssignment.exe.config
+C:\Users\colin\Source\Repos\ModuleOneAssignment\ModuleOneAssignment\bin\Debug\ModuleOneAssignment.exe
+C:\Users\colin\Source\Repos\ModuleOneAssignment\ModuleOneAssignment\bin\Debug\ModuleOneAssignment.pdb
+C:\Users\colin\Source\Repos\ModuleOneAssignment\ModuleOneAssignment\obj\Debug\ModuleOneAssignment.csprojResolveAssemblyReference.cache
+C:\Users\colin\Source\Repos\ModuleOneAssignment\ModuleOneAssignment\obj\Debug\ModuleOneAssignment.csproj.CoreCompileInputs.cache
+C:\Users\colin\Source\Repos\ModuleOneAssignment\ModuleOneAssignment\obj\Debug\ModuleOneAssignment.exe
+C:\Users\colin\Source\Repos\ModuleOneAssignment\ModuleOneAssignment\obj\Debug\ModuleOneAssignment.pdb
